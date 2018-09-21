@@ -1,0 +1,20 @@
+{
+  "name": "storybook-to-docz",
+  "version": "0.0.1",
+  "description": "Convert Storybook stories to mdx files for consumption within docz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hydrateio/storybook-to-docz.git"
+  },
+  "keywords": [],
+  "author": "dev@hydrate.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hydrateio/storybook-to-docz/issues"
+  },
+  "homepage": "https://github.com/hydrateio/storybook-to-docz#readme"
+}
